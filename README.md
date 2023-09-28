@@ -10,4 +10,4 @@ An events management database system built using Python. A terminal based applic
 ▪ Add an attendee to an event
 ▪ Delete an attendee from an event
 
-Usage requirements:
+To run: would recommend running in an IDE such as Visual Studio Code or PyCharm
