@@ -1,13 +1,14 @@
-# event_management_system
+# Event Management Application
 
-An events management database system built using Python. A terminal based application that allows the user to perform CRUD operations with the following list of requirements:
+## Description
+An events management database system built using Python. Terminal based application that allows a user to perform CRUD operations with the following functionality:
+- List all the events in the system
+- List an individual event
+- Edit an event
+- Delete an event
+- List the attendees attending an event
+- Add an attendee to an event
+- Delete an attendee from an event
 
-▪ List all the events in the system
-▪ List an individual event
-▪ Edit an event
-▪ Delete an event
-▪ List the attendees attending an event
-▪ Add an attendee to an event
-▪ Delete an attendee from an event
-
-To run: would recommend running in an IDE such as Visual Studio Code or PyCharm
+## Requirements
+Recommend running in an IDE such as Visual Studio Code or PyCharm
